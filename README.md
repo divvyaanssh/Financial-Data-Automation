@@ -56,7 +56,7 @@ financial-data-automation/
 
 ```bash
 git clone https://github.com/divvyaanssh/financial-data-automation.git
-cd financial-data-automation
+cd Financial-Data-Automation
 ```
 
 ### 2. Install Dependencies
