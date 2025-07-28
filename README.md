@@ -55,7 +55,7 @@ financial-data-automation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/financial-data-automation.git
+git clone https://github.com/divvyaanssh/financial-data-automation.git
 cd financial-data-automation
 ```
 
