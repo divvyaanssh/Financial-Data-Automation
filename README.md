@@ -92,8 +92,8 @@ This will create:
 
 **Divyansh**  
 📧 work.divyansh2610@gmail.com  
-[LinkedIn](#)  
-[GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/divyansh-03659126b)  
+[GitHub](https://github.com/divvyaanssh)
 
 ---
 
